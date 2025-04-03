@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andifilhohub&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=andifilhohub&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
